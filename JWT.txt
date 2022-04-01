@@ -1,0 +1,5 @@
+authentication- is the process of validating the use who they are.ie; this is the correct user for this account .
+
+JWT - JSON web token
+
+3 parts: header,payload,signature(security) are the 3 parts in JSONWebToken.
